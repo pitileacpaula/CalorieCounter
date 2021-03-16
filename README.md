@@ -1,5 +1,5 @@
 # CalorieCounter
-You need to create a Firebase projects and download the google-services.json
+You need to create a Firebase project and download the google-services.json
 Then you need to create the authentication,realtime database and cloud firestore.
 Realtime database and cloud firestore create in test mode
 Rules for realtime database : {
